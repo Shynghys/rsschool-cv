@@ -1,4 +1,4 @@
-1. ######Shynghys.
+1. Shynghys.
 2. shynghys@mail.ru.
 3. My goal is to be good **speacialist** in IT. I am a normal person with own ants.
 4. Html, css, python, go, js.
