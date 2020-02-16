@@ -1,0 +1,41 @@
+html {
+    background-color: khaki;
+    max-width: 1024px;
+    margin: 0 auto;
+    font-family: 'Odibee Sans', cursive;
+    font-size: 25px;
+}
+
+h1,
+h3 {
+    position: static;
+    text-align: center;
+}
+
+.block {
+    display: block;
+    align-content: flex-end;
+    background-origin: padding-box;
+    border: 10px black;
+    margin-bottom: 100px;
+}
+
+.photo {
+    position: inherit;
+    width: 200px;
+    height: auto;
+    float: left;
+    padding: 0 100px 0 250px;
+}
+
+img {
+    border-radius: 30%;
+}
+
+.name {
+    padding-top: 40px;
+}
+
+.surname {
+    padding-bottom: 20px;
+}
